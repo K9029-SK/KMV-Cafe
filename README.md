@@ -6,9 +6,9 @@ KMV-Cafe is a basic POS-like system built for a coffee shop. It allows users to 
 
 > 🎓 This group project was developed as a final system requirement for a major subject during 2nd year of BSInfotech.  
 > 👨‍💻 Developed by: 
-> Kane Stephene Frogosa : Back-end and front-end Developer
-> Vince iori : Project Planning and Documentation
-> Jullie Ann Manset : UI Design                   
+- Kane Stephene Frogosa : Back-end and front-end Developer
+- Vince iori : Project Planning and Documentation
+- Jullie Ann Manset : UI Design                   
 
 ---
  📌 Features
