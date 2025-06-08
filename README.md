@@ -10,12 +10,12 @@ KMV-Cafe is a basic POS-like system built for a coffee shop. It allows users to 
 ---
  📌 Features
 
--👤 User registration and login
--🏠 Home page with welcome content
--📋 Catalog to browse items
--💳 Transaction page for managing orders
--🔐 Simple user account management
--❌ No admin features (user-only system)
+- 👤 User registration and login
+- 🏠 Home page with welcome content
+- 📋 Catalog to browse items
+- 💳 Transaction page for managing orders
+- 🔐 Simple user account management
+- ❌ No admin features (user-only system)
 
 ---
 
@@ -47,9 +47,9 @@ User dashboard for viewing personal account details.
 
  🛠️ Tech Stack
 
--**Frontend:** HTML, CSS, JavaScript
--**Backend:** PHP
--**Database:** MySQL
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
 
 ---
 </div>
