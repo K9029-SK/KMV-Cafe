@@ -24,7 +24,7 @@ KMV-Cafe is a basic POS-like system built for a coffee shop. It allows users to 
 
   🏠 Home Page
 Displays a welcome interface and navigation for users.
-![Home Page](assets/screenshots/home.png)
+![Home Page](img/Screenshot%202025-06-08%20224630.png)
 
 ---
 
