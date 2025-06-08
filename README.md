@@ -5,7 +5,10 @@
 KMV-Cafe is a basic POS-like system built for a coffee shop. It allows users to create an account, log in, and access key features such as browsing the catalog and managing transactions. The system is designed using custom **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL** — with no frameworks involved.
 
 > 🎓 This group project was developed as a final system requirement for a major subject during 2nd year of BSInfotech.  
-> 👨‍💻 Developed by: *Kane Stephene Frogosa* — Project Programmer  
+> 👨‍💻 Developed by: 
+> Kane Stephene Frogosa : Back-end and front-end Developer
+> Vince iori : Project Planning and Documentation
+> Jullie Ann Manset : UI Design                   
 
 ---
  📌 Features
@@ -22,19 +25,19 @@ KMV-Cafe is a basic POS-like system built for a coffee shop. It allows users to 
 📁 Pages Overview
 
   🏠 Home Page
-Displays a welcome interface and navigation for users.
+Displays a list of items/products to add to a receipt, calculates the total amount, provides a printable receipt interface, and includes user navigation.
 ![Home Page](img/Screenshot%202025-06-08%20224521.png)
 
 ---
 
 📋 Catalog
-Shows a list of available items/products (e.g., drinks, pastries).
+Shows a list of items/products (e.g., drinks, pastries) with the ability to add and delete products.
 ![Catalog](img/Screenshot%202025-06-08%20224558.png)
 
 ---
 
  💳 Transaction
-Handles ordering and transaction details.
+Displays the user’s transaction history and handles transaction details only.
 ![Transaction](img/Screenshot%202025-06-08%20224613.png)
 
 ---
